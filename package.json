@@ -7,9 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server"
   },
-  "author": "Arpan Neupane",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3", 
+    "mongoose": "^7.0.0"
   }
 }
